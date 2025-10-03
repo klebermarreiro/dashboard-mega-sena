@@ -1,1 +1,1 @@
-# dashboard-mega-sena
+# Dashboard-Mega-SenaV2.6
